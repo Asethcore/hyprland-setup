@@ -1,0 +1,9 @@
+/*****----- Configuration -----*****/
+configuration {
+	modi:                       "drun";
+  show-icons:                 true;
+  icon-theme: "Mkos-Big-Sur";
+	drun-display-format:        "{name}";
+}
+
+@theme "~/.config/rofi/gruvbox.rasi"
